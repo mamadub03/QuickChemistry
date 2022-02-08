@@ -1,1 +1,1 @@
-web: gunicorn QuickChemistry.wsgi
+web: gunicorn quickapp.wsgi
